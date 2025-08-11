@@ -3,7 +3,7 @@ from flask_cors import CORS
 import os
 from dotenv import load_dotenv 
 # Load environment variables from .env file
-load_dotenv.load_dotenv()
+load_dotenv()
  # Uncomment if you want to use dotenv for environment variables
 # from flask import Flask, request, jsonify, render_template
 
